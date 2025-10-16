@@ -1,5 +1,9 @@
-# Wallpaper Bank
-My Collections of Wallpapers for my machines, collected for a long time so i can't remmber real owners 
+# Wallpaper Collection
 
+This repository is a collection of wallpapers gathered from various online sources.  
+I do **not claim ownership** of any of the images unless explicitly stated.  
 
-**Feel Free to sumbit issue if you own any wallpapers** 
+If you are the owner of any image and would like it credited or removed,  
+please open an issue or contact me directly.
+
+All wallpapers remain the property of their respective owners.
